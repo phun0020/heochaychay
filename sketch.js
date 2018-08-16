@@ -9,7 +9,7 @@ let isStart = false;
 function preload() {
     runningPig = loadImage('heoChayChay.png');
     walkingPig = loadImage('heoDiDi.png');
-    pigs.push(runningPig, runningPig, walkingPig);
+    pigs.push(runningPig, runningPig, runningPig, walkingPig);
 }
 
 function setup() {
